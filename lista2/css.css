@@ -1,0 +1,21 @@
+.formulario{
+	width: 40%;
+}
+.container {
+	position: relative;
+  }
+  
+  #image {
+	position: absolute;
+  }
+  
+  #texto {
+	position: absolute;
+	right: 80px;
+	top: 40px;
+  }
+  #videoI {
+	position: absolute;
+	left: 50%;
+	right: 0%;
+  }
